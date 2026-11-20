@@ -17,7 +17,7 @@ Run:
 
 ### Reflection
 
-Explain why weak passwords are dangerous.
+Weak passwords are dangerous because they are easy to hack or solve by someone else.
 
 ------------------------------------------------------------------------
 
@@ -38,8 +38,11 @@ Run:
 
 ### Reflection
 
-Describe at least three characteristics of strong passwords.
-
+1. Capital letters
+2. Special symbols
+3. Numbers
+4. Non-dictionary words
+5. Long combinations
 ------------------------------------------------------------------------
 
 ## Task 3 --- Password Analysis
@@ -59,4 +62,4 @@ Evaluate the following passwords:
 
 ### Reflection
 
-Explain what you learned about password strength.
+Any strong password should follow certain rules listed above to make them harder to guess.

@@ -17,8 +17,7 @@ Run:
 3.  Why do operating systems create system accounts?
 
 ### Reflection
-
-Explain why understanding system users is important for cybersecurity.
+It is important to understand system users as you can navigate through them, choose different permissions and control them.
 
 ------------------------------------------------------------------------
 
@@ -40,7 +39,7 @@ Run:
 
 ### Reflection
 
-What did you learn about system processes and security?
+We learned how the operating system manages processes and how security measures protect the system from unauthorised access and threats.
 
 ------------------------------------------------------------------------
 
@@ -62,5 +61,4 @@ Run:
 
 ### Reflection
 
-Explain the relationship between open ports and potential attack
-surfaces.
+Open ports can increase the attack surface of a system because they provide potential entry points that attackers may exploit to gain unathorised access.

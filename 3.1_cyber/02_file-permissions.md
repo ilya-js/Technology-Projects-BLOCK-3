@@ -18,7 +18,7 @@ Run:
 
 ### Reflection
 
-Why is file ownership important in Linux systems?
+As different users should have different permissions so that low value users have less access to some features. 
 
 ------------------------------------------------------------------------
 
