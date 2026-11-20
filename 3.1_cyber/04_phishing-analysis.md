@@ -37,7 +37,7 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 
 ### Reflection
 
-Explain why attackers use phishing emails.
+Attackers use phising emails because they want to steal personal details and valuable credentials.
 
 ------------------------------------------------------------------------
 
@@ -55,5 +55,6 @@ Hover over the link in the email (or copy link) and inspect the URL.
 2.  Are there unusual domain names?
 
 ### Reflection
-
-Explain why users should always inspect links before clicking them.
+	In modern life of technologies, people are always under a risk of malicious activities online. It is important to be on guard every time you recieve any links in a digital world. There are plenty of reasons why it is essential
+ to know how to protect yourself from it:  Even secure looking links can include potential dangers inside of them (like stealing your personal data and private credentials).
+ To be completely secure, always check the senders name, its spelling and grammar, domain names and links. Do not trust senders even when you might know them as it can lead to significant consequences.
